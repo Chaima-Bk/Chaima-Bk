@@ -20,5 +20,5 @@
 ---
 
 📫 How to reach me:  
-- LinkedIn: linkedin.com/in/chayma-boubakri/
+- [LinkedIn](https://www.linkedin.com/in/chayma-boubakri/)
 - Email: boubakrichayma18@gmail.com  
