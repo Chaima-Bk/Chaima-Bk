@@ -1,6 +1,6 @@
-## Hi,I'm Chaima 👋
+## Hi there👋
 
-🎓 Recent Business Intelligence graduate passionate about **Data and Artificial Intelligence**.  
+🎓 I'm a recent Business Intelligence graduate passionate about **Data and Artificial Intelligence**.  
 
 ---
 ## 📊 Featured Projects
