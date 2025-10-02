@@ -8,7 +8,7 @@
   *Interactive Power BI report analyzing sales, customer behavior, and product preferences.*  
 
 - 💼 [Financial Data Analytics Solution](https://github.com/Chaima-Bk/Financial-data-analytics-solution)  
-  *Final year project (PFE) — Business Intelligence system for banking transactions, with ETL, Data Warehouse, and dashboards.*
+  *Final year project (PFE) — Business Intelligence solution for banking transactions, with ETL process, Data Warehouse, interactive dashboards, streamlit interface and chatbot.*
 
 ## 🛠️ Skills
 - **Business Intelligence**: Power BI, Tableau  
