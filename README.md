@@ -11,11 +11,10 @@
   *Final year project (PFE) — Business Intelligence solution for banking transactions, with ETL process, Data Warehouse, interactive dashboards, streamlit interface and chatbot.*
 
 ## 🛠️ Skills
-- **Business Intelligence**: Power BI, Tableau  
-- **Data Engineering**: Talend, DBMS, ETL pipeline  
-- **Programming**: Python, SQL, Java
-- **Web Development**: HTML CSS JavaScript Bootsrap Streamlit API Flask django React  
-- **AI skills**: Machine Learning AI Tools & Libraries: Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib  
+- **BI and Data skills**: Data Engineering, Data Modeling, ETL pipeline, Data Warehousing, Data Visualization, KPI Tracking, DBMS   
+- **Programming**: Python, SQL, Java, DAX
+- **Web Development**: HTML, CSS, JavaScript, Bootsrap, Streamlit, API, Flask, django, React  
+- **AI skills**: Machine Learning, AI Tools & Libraries: Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib  
 
 ---
 
