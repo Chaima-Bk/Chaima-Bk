@@ -5,7 +5,7 @@
 ---
 ## 📊 Featured Projects
 - 🏢 [**Regional Contracts Sales Insights**](https://github.com/Chaima-Bk/powerbi-dashboards/blob/main/files/Agency_Contracts.pbix)  
-  *Dashboard providing regional insights into sales performance, contracts, and agency activity across Europe.*
+  *Dashboard providing regional insights into sales performance, contracts, and agency activity.*
 
 - 🍕 [Pizza Sales Dashboard](https://github.com/Chaima-Bk/powerbi-dashboards)  
   *Interactive Power BI report analyzing sales, customer behavior, and product preferences.*  
