@@ -7,10 +7,10 @@
 - 🏢 [**Regional Contracts Sales Insights**](https://github.com/Chaima-Bk/powerbi-dashboards/blob/main/files/Agency_Contracts.pbix)  
   *Dashboard providing regional insights into sales performance, contracts, and agency activity.*
 
-- 🍕 [Pizza Sales Dashboard](https://github.com/Chaima-Bk/powerbi-dashboards)  
+- 🍕 [**Pizza Sales Dashboard**](https://github.com/Chaima-Bk/powerbi-dashboards)  
   *Interactive Power BI report analyzing sales, customer behavior, and product preferences.*  
 
-- 💼 [Financial Data Analytics Solution](https://github.com/Chaima-Bk/Financial-data-analytics-solution)  
+- 💼 [**Financial Data Analytics Solution**](https://github.com/Chaima-Bk/Financial-data-analytics-solution)  
   *Final year project (PFE) — Business Intelligence solution for banking transactions, with ETL process, Data Warehouse, interactive dashboards, streamlit interface and chatbot.*
 
 ## 🛠️ Skills
