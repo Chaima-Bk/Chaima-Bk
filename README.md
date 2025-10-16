@@ -1,13 +1,13 @@
 ## Hi there👋
 
-🎓 I'm a recent Business Intelligence graduate passionate about **Data and Artificial Intelligence**.  
+🎓 A recent **Business Intelligence** graduate.  
 
 ---
 ## 📊 Featured Projects
 - 💼 [**Financial Data Analytics Solution**](https://github.com/Chaima-Bk/Financial-data-analytics-solution)  
   *Final year project (PFE) — Business Intelligence solution for banking transactions, with ETL process, Data Warehouse, interactive dashboards, streamlit interface and chatbot.*
 
-  - 🍕 [**Pizza Sales Dashboard**](https://github.com/Chaima-Bk/powerbi-dashboards)  
+- 🍕 [**Pizza Sales Dashboard**](https://github.com/Chaima-Bk/powerbi-dashboards)  
   *Interactive Power BI report analyzing sales, customer behavior, and product preferences.*
 
 - 🏢 [**Regional Contracts Sales Insights**](https://github.com/Chaima-Bk/powerbi-dashboards/blob/main/files/Agency_Contracts.pbix)  
