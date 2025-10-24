@@ -6,7 +6,7 @@
 ## 📊 Featured Projects
 - 💼 [**Financial Data Analytics Solution**](https://github.com/Chaima-Bk/Financial-data-analytics-solution)  
   *Final year project — Business Intelligence solution for banking transactions, with ETL process, Data Warehouse, interactive dashboards, streamlit interface and chatbot.*
-- 🌿[**GreenMind**](https://github.com/Chaima-Bk/GreenMind)
+- 🌿[**GreenMind**](https://github.com/Chaima-Bk/GreenMind) <br>
    *An AI-based web app that performs climate tweet sentiment analysis, topic detection, and report generation using NLP and data visualization techniques.*
 - 🍕 [**Pizza Sales Dashboard**](https://github.com/Chaima-Bk/powerbi-dashboards)  
   *Interactive Power BI report analyzing sales, customer behavior, and product preferences.*
