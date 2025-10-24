@@ -20,7 +20,7 @@
 - **BI and Data skills**: Data Engineering, Data Modeling, ETL pipeline, Data Warehousing, Data Visualization, KPI Tracking, DBMS   
 - **Programming**: Python, SQL, Java, DAX
 - **Web Development**: HTML, CSS, JavaScript, Bootsrap, Streamlit, API, Flask, django, React  
-- **AI skills**: Machine Learning, AI Tools & Libraries: Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib  
+- **AI skills**: Machine Learning, AI Tools & Libraries: Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib... 
 
 ---
 
